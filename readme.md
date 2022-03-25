@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://alexsabur.ru">Alex</a>!</h1>
 
-<h2 align="center">I'm a Student, Developer and Baka from Russia😝</h2>
+<h2 align="center">I'm a student and web developer from Russia😝</h2>
 
 <h3 align="center">Studying and using these Languages and Tool</h3>
 <p align="center">
