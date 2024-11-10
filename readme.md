@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Alex!</h1>
 
-<h2 align="center">I'm a web developer from Russia</h2>
-
 <h3 align="center">Studying and using these Languages and Tool</h3>
 <p align="center">
     <img height="32" width="32" alt="Visual studio code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
